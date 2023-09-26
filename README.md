@@ -2,6 +2,8 @@
 
 ## 环境准备
 - node.js: [windows安装包](https://nodejs.org/dist/v18.18.0/node-v18.18.0-x64.msi)
+- ts-node: npm install -g typescript ts-node
+
 
 ## 生成Merk树
 1. 在whitelist.json文件中填写白名单地址
