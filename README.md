@@ -13,3 +13,6 @@ npm i
 npx ts-node ./main.ts
 ```
 3. 以上运行结果将输出Root节点与所有Leaf节点
+4. Based on the output of the root at node: would be 21301230210321321132103
+5. before adding root the the smart contract, plz add 0x in front of the root output
+
